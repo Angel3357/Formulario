@@ -1,0 +1,17 @@
+body {
+  background-image: URL(https://fondosmil.com/fondo/31337.jpg);
+}
+
+.form {
+  background-color: white;
+  border-radius: 8px;
+	box-sizing: border-box;
+	color: #666;
+	font-size: 1.2em;
+	line-height: 1.4em;
+	margin: 20px auto;
+	margin-top: 80px;
+	padding: 20px;
+	width: 100%;
+	max-width: 800px;
+}
